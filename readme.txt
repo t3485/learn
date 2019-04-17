@@ -1,1 +1,3 @@
-git is pretty good.
+git is pretty good.right?
+git is a free software.
+cooooooooool
